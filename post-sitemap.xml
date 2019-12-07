@@ -40,7 +40,7 @@
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/news/2019-03-27-klac-update-2.html</loc>
+        <loc>https://www.nonostante.io/news/2015-11-21-our-first-effort-our-first-born-aedo-episodes.html</loc>
         <lastmod>2019-12-06T23:27:34.722Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -48,7 +48,7 @@
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/news/2015-11-21-our-first-effort-our-first-born-aedo-episodes.html</loc>
+        <loc>https://www.nonostante.io/news/2019-03-27-klac-update-2.html</loc>
         <lastmod>2019-12-06T23:27:34.722Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -58,14 +58,6 @@
     <url>
         <loc>https://www.nonostante.io/devblog/2017-05-19-remove-fullscreen-focus-windows-uwp.html</loc>
         <lastmod>2019-12-06T23:27:34.722Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.nonostante.io/devblog/2016-10-06-insert-common-used-data-with-a-custom-tag-plugin-in-hexo-blog-engine.html</loc>
-        <lastmod>2019-12-06T23:27:34.721Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -88,15 +80,15 @@
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/news/2018-07-16-ermo-iphone-wallpapers.html</loc>
-        <lastmod>2019-12-06T23:27:34.720Z</lastmod>
+        <loc>https://www.nonostante.io/devblog/2016-10-06-insert-common-used-data-with-a-custom-tag-plugin-in-hexo-blog-engine.html</loc>
+        <lastmod>2019-12-06T23:27:34.721Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/news/2017-08-24-ermo-released-on-android.html</loc>
+        <loc>https://www.nonostante.io/news/2018-07-16-ermo-iphone-wallpapers.html</loc>
         <lastmod>2019-12-06T23:27:34.720Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -112,15 +104,15 @@
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/news/2017-09-28-ermo-coming-soon-to-ios.html</loc>
-        <lastmod>2019-12-06T23:27:34.719Z</lastmod>
+        <loc>https://www.nonostante.io/news/2017-08-24-ermo-released-on-android.html</loc>
+        <lastmod>2019-12-06T23:27:34.720Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/news/2017-08-12-ermo-included-into-xbox-creators-collection.html</loc>
+        <loc>https://www.nonostante.io/news/2017-09-28-ermo-coming-soon-to-ios.html</loc>
         <lastmod>2019-12-06T23:27:34.719Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -136,15 +128,15 @@
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/news/2018-07-06-ermo-biok-mod.html</loc>
-        <lastmod>2019-12-06T23:27:34.718Z</lastmod>
+        <loc>https://www.nonostante.io/news/2017-08-12-ermo-included-into-xbox-creators-collection.html</loc>
+        <lastmod>2019-12-06T23:27:34.719Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/news/2017-12-16-ermo-christmas-mod.html</loc>
+        <loc>https://www.nonostante.io/news/2018-07-06-ermo-biok-mod.html</loc>
         <lastmod>2019-12-06T23:27:34.718Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -160,15 +152,15 @@
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/news/2017-05-11-ermo-announcement.html</loc>
-        <lastmod>2019-12-06T23:27:34.717Z</lastmod>
+        <loc>https://www.nonostante.io/news/2017-12-16-ermo-christmas-mod.html</loc>
+        <lastmod>2019-12-06T23:27:34.718Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/news/2017-05-17-ermo-beta-update-1.html</loc>
+        <loc>https://www.nonostante.io/news/2017-05-11-ermo-announcement.html</loc>
         <lastmod>2019-12-06T23:27:34.717Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -184,8 +176,8 @@
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/devblog/2017-01-13-cocos-js-draw-solid-circle.html</loc>
-        <lastmod>2019-12-06T23:27:34.716Z</lastmod>
+        <loc>https://www.nonostante.io/news/2017-05-17-ermo-beta-update-1.html</loc>
+        <lastmod>2019-12-06T23:27:34.717Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -193,6 +185,14 @@
 
     <url>
         <loc>https://www.nonostante.io/devblog/2015-12-30-cocos-js-windows-phone-script-not-loading-issue.html</loc>
+        <lastmod>2019-12-06T23:27:34.716Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.nonostante.io/devblog/2017-01-13-cocos-js-draw-solid-circle.html</loc>
         <lastmod>2019-12-06T23:27:34.716Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -208,7 +208,7 @@
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/news/2018-05-18-biok-announcement.html</loc>
+        <loc>https://www.nonostante.io/devblog/2015-12-02-automate-sprite-management-with-texture-packer.html</loc>
         <lastmod>2019-12-06T23:27:34.715Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -216,7 +216,7 @@
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/devblog/2015-12-02-automate-sprite-management-with-texture-packer.html</loc>
+        <loc>https://www.nonostante.io/news/2018-05-18-biok-announcement.html</loc>
         <lastmod>2019-12-06T23:27:34.715Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -232,7 +232,7 @@
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/news/2016-12-01-aedo-episodes-update-1.html</loc>
+        <loc>https://www.nonostante.io/news/2017-01-16-aedo-episodes-update-2.html</loc>
         <lastmod>2019-12-06T23:27:34.714Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -240,7 +240,7 @@
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/news/2017-01-16-aedo-episodes-update-2.html</loc>
+        <loc>https://www.nonostante.io/news/2016-12-01-aedo-episodes-update-1.html</loc>
         <lastmod>2019-12-06T23:27:34.714Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -288,7 +288,7 @@
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/devblog/2015-11-22-aedo-episodes-game-introduction.html</loc>
+        <loc>https://www.nonostante.io/news/2016-10-08-aedo-episodes-gameplay-preview.html</loc>
         <lastmod>2019-12-06T23:27:34.711Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -296,7 +296,7 @@
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/news/2016-10-08-aedo-episodes-gameplay-preview.html</loc>
+        <loc>https://www.nonostante.io/devblog/2015-11-22-aedo-episodes-game-introduction.html</loc>
         <lastmod>2019-12-06T23:27:34.711Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -312,7 +312,7 @@
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/devblog/2015-12-08-aedo-episodes-action-phase.html</loc>
+        <loc>https://www.nonostante.io/news/2016-01-21-aedo-episodes-announcement-trailer.html</loc>
         <lastmod>2019-12-06T23:27:34.709Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -320,7 +320,7 @@
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/news/2016-01-21-aedo-episodes-announcement-trailer.html</loc>
+        <loc>https://www.nonostante.io/devblog/2015-12-08-aedo-episodes-action-phase.html</loc>
         <lastmod>2019-12-06T23:27:34.709Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
