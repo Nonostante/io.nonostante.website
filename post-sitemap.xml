@@ -40,7 +40,7 @@
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/news/2019-03-27-klac-update-2.html</loc>
+        <loc>https://www.nonostante.io/news/2015-11-21-our-first-effort-our-first-born-aedo-episodes.html</loc>
         <lastmod>2019-12-06T23:27:34.722Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -48,7 +48,7 @@
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/news/2015-11-21-our-first-effort-our-first-born-aedo-episodes.html</loc>
+        <loc>https://www.nonostante.io/news/2019-03-27-klac-update-2.html</loc>
         <lastmod>2019-12-06T23:27:34.722Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -64,7 +64,7 @@
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/news/2018-09-30-klac-announcement.html</loc>
+        <loc>https://www.nonostante.io/devblog/2016-10-06-insert-common-used-data-with-a-custom-tag-plugin-in-hexo-blog-engine.html</loc>
         <lastmod>2019-12-06T23:27:34.721Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -72,7 +72,7 @@
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/devblog/2016-10-06-insert-common-used-data-with-a-custom-tag-plugin-in-hexo-blog-engine.html</loc>
+        <loc>https://www.nonostante.io/news/2018-09-30-klac-announcement.html</loc>
         <lastmod>2019-12-06T23:27:34.721Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -88,7 +88,7 @@
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/news/2017-08-24-ermo-released-on-android.html</loc>
+        <loc>https://www.nonostante.io/news/2018-07-16-ermo-iphone-wallpapers.html</loc>
         <lastmod>2019-12-06T23:27:34.720Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -96,7 +96,7 @@
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/news/2018-07-16-ermo-iphone-wallpapers.html</loc>
+        <loc>https://www.nonostante.io/news/2017-08-24-ermo-released-on-android.html</loc>
         <lastmod>2019-12-06T23:27:34.720Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -112,14 +112,6 @@
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/news/2017-08-12-ermo-included-into-xbox-creators-collection.html</loc>
-        <lastmod>2019-12-06T23:27:34.719Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://www.nonostante.io/news/2017-09-28-ermo-coming-soon-to-ios.html</loc>
         <lastmod>2019-12-06T23:27:34.719Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -129,6 +121,14 @@
 
     <url>
         <loc>https://www.nonostante.io/news/2017-10-30-ermo-halloween-mod.html</loc>
+        <lastmod>2019-12-06T23:27:34.719Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.nonostante.io/news/2017-08-12-ermo-included-into-xbox-creators-collection.html</loc>
         <lastmod>2019-12-06T23:27:34.719Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -208,7 +208,7 @@
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/news/2018-07-06-biok-available-for-preorder-ios.html</loc>
+        <loc>https://www.nonostante.io/devblog/2015-12-02-automate-sprite-management-with-texture-packer.html</loc>
         <lastmod>2019-12-06T23:27:34.715Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -224,7 +224,7 @@
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/devblog/2015-12-02-automate-sprite-management-with-texture-packer.html</loc>
+        <loc>https://www.nonostante.io/news/2018-07-06-biok-available-for-preorder-ios.html</loc>
         <lastmod>2019-12-06T23:27:34.715Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -248,14 +248,6 @@
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/devblog/2015-11-27-aedo-episodes-tactic-phase.html</loc>
-        <lastmod>2019-12-06T23:27:34.713Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://www.nonostante.io/news/2016-10-02-aedo-episodes-story-trailer.html</loc>
         <lastmod>2019-12-06T23:27:34.713Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -264,8 +256,8 @@
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/news/2016-10-29-aedo-episodes-open-beta.html</loc>
-        <lastmod>2019-12-06T23:27:34.712Z</lastmod>
+        <loc>https://www.nonostante.io/devblog/2015-11-27-aedo-episodes-tactic-phase.html</loc>
+        <lastmod>2019-12-06T23:27:34.713Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -280,8 +272,8 @@
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/news/2016-10-08-aedo-episodes-gameplay-preview.html</loc>
-        <lastmod>2019-12-06T23:27:34.711Z</lastmod>
+        <loc>https://www.nonostante.io/news/2016-10-29-aedo-episodes-open-beta.html</loc>
+        <lastmod>2019-12-06T23:27:34.712Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -304,6 +296,14 @@
     </url>
 
     <url>
+        <loc>https://www.nonostante.io/news/2016-10-08-aedo-episodes-gameplay-preview.html</loc>
+        <lastmod>2019-12-06T23:27:34.711Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://www.nonostante.io/news/2016-02-15-aedo-episodes-call-for-testers.html</loc>
         <lastmod>2019-12-06T23:27:34.710Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -312,7 +312,7 @@
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/news/2016-01-21-aedo-episodes-announcement-trailer.html</loc>
+        <loc>https://www.nonostante.io/devblog/2015-12-08-aedo-episodes-action-phase.html</loc>
         <lastmod>2019-12-06T23:27:34.709Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -320,7 +320,7 @@
     </url>
 
     <url>
-        <loc>https://www.nonostante.io/devblog/2015-12-08-aedo-episodes-action-phase.html</loc>
+        <loc>https://www.nonostante.io/news/2016-01-21-aedo-episodes-announcement-trailer.html</loc>
         <lastmod>2019-12-06T23:27:34.709Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
