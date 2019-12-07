@@ -1,0 +1,61 @@
+BIOK
+by Nonostante
+www.nonostante.io
+
+Release dates:
+ 19/Jul/2018 iOS
+ 18/Sep/2018 Android
+ TBD Windows
+ TBD Steam (Windows / Linux / MacOs)
+
+Gameplay:		https://www.youtube.com/watch?v=0uF_qQphvao
+
+## Store Urls
+iOS			https://itunes.apple.com/app/biok/id1386221275
+Android			https://play.google.com/store/apps/details?id=io.nonostante.games.biok
+
+## Brief description:
+BIOK is a board game of captures and equilibrium.
+Lead your monsters on the playing field to catch other creatures and special items. 
+
+## Key features:
+- Variety: each monster behaves differently to make challenges always fresh
+- Different gameplays, game modes allow different playing styles.
+- Easy controls and very fluid to use
+- Hint system, give some help when player is stuck
+
+
+## Store Description
+BIOK is pure strategy and intuition. A board game for the ingenious and the acute minds.
+Lead the creatures on the playing field to capture monsters and all kinds of items. Watch the monsters' eyes and guide them to their preys.
+
+There are multiple solutions in each level, but the best strategists will strive for the maximum, with great skill and a pinch of logic.
+
+PLAN
+Carefully study the disposition of the creatures and plan the moves taking full advantage of the characteristics of each creature.
+
+CAPTURE
+Each mission has its objectives. Capture the required monsters and respect the markers to complete the level. The less movements you use, the more stars you get.
+
+COLLECTS
+Collect special items and consult the Monsterpedia to learn all the details about each monster, object and special item.
+
+HOW TO PLAY
+- Move the creatures, swipe in any direction
+- Capture monsters according the targets
+- Collect special items
+- The less the moves, the more the stars earned
+
+FEATURES
+- Simple controls and fluid mechanics, super simple to understand and fun to use
+- 60 levels in many worlds with various maps
+- 10 creatures with different characteristics and abilities
+- Bonus and survival mode to solve puzzles and challenges
+- Special objects and environmental elements
+- Secondary missions and hidden objectives
+- Achievement and integration with Game Center
+- Fun and suitable for all ages
+
+BIOK does not require an internet connection. It is possible to play BIOK in total tranquility while being offline.
+
+Relax yourself by playing BIOK just a little before falling asleep. Don't let the social media catch you, be a captain and a strategist, lead the BIOK creatures by your command to catch their preys.

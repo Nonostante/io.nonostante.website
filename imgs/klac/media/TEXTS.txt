@@ -1,0 +1,41 @@
+KLAC
+by Nonostante
+www.nonostante.io
+
+Release dates:
+ 03/Oct/2018 iOS
+ 03/Oct/2018 Android
+ 10/Oct/2018 WindowsPhone
+ 28/May/2019 MacOs
+ 24/Jun/2019 Steam (Windows, Macos, Linux)
+ 24/Jun/2019 Itch.io (Windows, Macos, Linux)
+
+Gameplay:		https://www.youtube.com/watch?v=mjInhN1j5xQ
+
+## Store Urls
+iOS			https://itunes.apple.com/app/klac/id1421420656
+Android			https://play.google.com/store/apps/details?id=io.nonostante.games.klac
+Windows			https://www.microsoft.com/store/r/9PKZKDZ3KS2R
+Steam			https://store.steampowered.com/app/1102030/KLAC/
+Itch.io			https://nonostantegames.itch.io/klac
+
+## Brief description:
+KLAC is a minimalistic spatial-puzzle game.
+Snap, Split and Stick the boxes to fill the board.
+
+## Key features:
+- Elegant and clean design
+- Hand crafted levels with difficulty progression
+- No score, no time, no pressure, just focus on the reasoning
+- Achievement and integration with Game Center
+
+
+## Store Description
+It's minimal. It's hard. It's wonderful. 
+Lots of things, we can say...
+
+But, you'll trust us?
+When you KLAC, you - for sure - will.
+
+KLAC - Snap, Split and Stick.
+A spatial-word puzzle game.

@@ -1,0 +1,37 @@
+RUNA
+by Nonostante
+www.nonostante.io
+
+Release dates:
+ 30/Jan/2019	iOS
+ 30/Jan/2019	Android
+
+Gameplay:		https://www.youtube.com/watch?v=c-JK3vDjiQc
+
+## Store Urls
+iOS			https://itunes.apple.com/app/runa/id1310677189
+Android			https://play.google.com/apps/testing/io.nonostante.games.runa
+
+## Brief description:
+RUNA is a gorgeous puzzle game where you need to spread the Light by connecting blocks.
+Irradiate the way up to the highest sky.
+
+## Key features:
+- Hand crafted levels with difficulty progression
+- No score, no time, no pressure, just focus on the reasoning
+- Elegant and clean design
+- Achievement and integration with Game Center
+
+
+## Store Description
+Arrange the blocks and spread the light.
+Irradiate the way up to the highest sky.
+
+Set the order, set the route, set the focus.
+Let the energy flows on the path of the Light.
+
+RUNA - A way throughout the shadows.
+A unique journey among stars, skies and distant lands.
+
+RUNA is a gorgeous puzzle game with celestial graphics and delicate sounds.
+You'll make use of reasoning, logic, experimentation and research.

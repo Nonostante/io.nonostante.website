@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "Y4Y2TRVRHS.io.nonostante.games.ermo",
+                "paths": [ "/games/ermo/dl/*"]
+            }
+        ]
+    }
+}
